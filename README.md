@@ -24,12 +24,13 @@ Where:
 * gI is the index of every proposals ( One video may have more than one proposals, gI[i]~gI[i+1] is the range where label and ground truth from the i th video )
 
 
-2. Train the network
+3. Train the network
 
 ## Other
 
 All code where inspired by:
 
+```
 @article{DBLP:journals/corr/abs-1710-06236,
   author    = {Tianwei Lin and
                Xu Zhao and
@@ -45,4 +46,4 @@ All code where inspired by:
   biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1710-06236},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
-
+```
